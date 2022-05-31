@@ -1,0 +1,68 @@
+/*FOOTER*/
+.footer {
+  margin: 0;
+  padding: 0;
+  justify-self: self-end;
+  background-color: darkslategrey;
+  width: 100%;
+  bottom: 0 !important;
+  position: absolute;
+  height: min-content; }
+  .footer .footer__vinculos {
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: floralwhite;
+    align-self: flex-end; }
+    .footer .footer__vinculos a {
+      list-style-type: none;
+      text-decoration: none;
+      color: floralwhite; }
+  .footer .footer__info {
+    text-align: center;
+    font-style: italic;
+    color: darkred; }
+
+* {
+  margin: 0 !important;
+  box-sizing: border-box !important; }
+
+/*Cosas Generales*/
+body {
+  background-color: whitesmoke; }
+
+.bgGreen {
+  background-color: darkseagreen !important; }
+
+.espaciado {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important; }
+
+.subtitulos {
+  color: #247724; }
+
+main {
+  margin: 5rem; }
+
+.centro {
+  align-self: center; }
+
+.abajo {
+  align-self: flex-end !important; }
+
+.encabezado {
+  background-image: url("../assets/fondoGrey.jpg"); }
+
+.encabezado__Titulo {
+  color: #247724;
+  font-weight: bold !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.encabezado__logo {
+  filter: brightness(1.9);
+  mix-blend-mode: multiply;
+  /*estas 2 lineas eliminan el fondo blanco*/ }
+
+.navHipervinculo a {
+  text-decoration: none;
+  color: cornsilk !important; }

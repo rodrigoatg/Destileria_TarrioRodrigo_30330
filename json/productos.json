@@ -1,0 +1,5 @@
+[
+{"id": 1, "nombre":"GinTonic", "categoria": "Bebida Alcoholica", "precio": 5000, "stock": 2, "imagen": "../assets/GinTonicLata.png"},
+{"id": 2, "nombre":"Sidra","categoria": "Bebida Alcoholica", "precio": 4300, "stock":100, "imagen": "../assets/SidraLata.png"},
+{"id": 3, "nombre":"Cerveza","categoria": "Bebida Alcoholica", "precio": 3500, "stock":100, "imagen": "../assets/CervezaCuadrada.png"}
+]
